@@ -4,7 +4,7 @@
     End Sub
 
     Private Sub PaparNama()
-        Result1.Text = "NAMA"
+        Result1.Text = "Nama"
     End Sub
 
     Private Sub btn2_Click(sender As Object, e As EventArgs) Handles Btn2.Click
@@ -19,7 +19,7 @@
     End Sub
 
     Function paparUmur()
-        Result3.Text = "UMUR"
+        Result3.Text = "Umur"
     End Function
 
     Private Function btn3_Click(sender As Object, e As EventArgs) Handles Btn3.Click
